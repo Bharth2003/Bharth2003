@@ -20,44 +20,31 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class BharthKS:
-    def __init__(self):
-        self.name           = "Bharth K S"
-        self.location       = "Edinburgh, UK 🏴󠁧󠁢󠁳󠁣󠁴󠁿"
-        self.degree         = "MSc Robotics — Heriot-Watt University"
-        self.role           = "Robotics Engineer & AI Engineer"
-        self.email          = "bharth.ks2003@gmail.com"
 
-        self.stack = [
+        Name           = "Bharth K S"
+        Location       = "Edinburgh, UK 🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        Degree         = "MSc Robotics — Heriot-Watt University"
+        Role           = "Robotics Engineer & AI Engineer"
+        Email          = "bharth.ks2003@gmail.com"
+
+        stack = 
             "Python", "C++", "ROS 2",
             "Anthropic Claude", "Ollama",
             "Hugging Face", "OpenCV",
             "MQTT", "NodeRED", "ESP32"
-        ]
+        
 
-        self.currently_learning = [
-            "OpenAI API integration",
-            "Advanced LLM fine-tuning",
-            "Docker & MLOps pipelines",
-            "Vector databases & RAG"
-        ]
+        currently_learning =      "OpenAI API integration",
+                                  "Advanced LLM fine-tuning",
+                                  "Docker & MLOps pipelines",
+                                  "Vector databases & RAG"
 
-        self.fun_fact = (
-            "I build robots that talk to LLMs 🤖 "
-            "and make AI argue with itself for safety research 🔐"
-        )
+        fun_fact is that "I build robots that talk to LLMs 🤖 and make AI argue with itself for safety research 🔐"
+      
+        Motto is to "Build responsibly. Deploy safely. Learn endlessly. 🚀"
 
-    def motto(self):
-        return "Build responsibly. Deploy safely. Learn endlessly. 🚀"
 
-me = BharthKS()
-print(me.motto())
-```
 
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Stack
 
