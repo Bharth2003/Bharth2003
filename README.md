@@ -102,17 +102,6 @@
 
 </details>
 
-<details>
-<summary><strong>🍗 Team Member — KFC | Edinburgh, UK | Dec 2025–Present</strong></summary>
-
-> ![Teamwork](https://img.shields.io/badge/Teamwork-38bdae?style=flat-square&logoColor=white)
-> ![Fast-Paced](https://img.shields.io/badge/Fast--Paced%20Ops-70a5fd?style=flat-square&logoColor=white)
-
-- Performing reliably in a **high-pressure, fast-paced** customer-facing environment requiring rapid decision-making, clear communication, and tight team coordination.
-- Developed strong interpersonal and cross-functional collaboration skills transferable to agile engineering teams.
-
-</details>
-
 ---
 
 ## 🚀 Featured Projects
