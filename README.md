@@ -130,7 +130,7 @@
 | 🔧 | **The Robotics Club — Technical Member** | Kongu Engineering College (2023–2024) |
 | 🎓 | **Upper First-Class Honours** | B.E. Mechatronics Engineering — Kongu Engineering College (2021–2025) |
 | 🏭 | **Industry Internship** | Hyundai Motors Pvt. Ltd — Production Engineering, Body Shop (2025) |
-| 🔐 | **AI Safety Research** | Adversarial LLM Attack & Defence system for embodied AI agents — MSc thesis project |
+| 🔐 | **AI Safety Research** | Adversarial LLM Attack & Defence system for embodied AI agents |
 
 </div>
 
