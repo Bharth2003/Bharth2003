@@ -11,7 +11,7 @@
   <a href="mailto:bharth.ks2003@gmail.com"><img src="https://img.shields.io/badge/Email-bharth.ks2003%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://portfolio-seven-gules-b3ntlu4hop.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-bf91f3?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Location-Edinburgh%2C%20UK-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20To-Hybrid%20UK-70a5fd?style=flat-square&logo=briefcase&logoColor=white" alt="Open To"/>
+  <img src="https://img.shields.io/badge/Open%20To-On-site,Hybrid%20UK-70a5fd?style=flat-square&logo=briefcase&logoColor=white" alt="Open To"/>
 </div>
 
 ---
